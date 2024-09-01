@@ -1,0 +1,50 @@
+Joshua
+Investigar el mercado
+Desarrollar estrategia de marketing
+Preparar informe financiero
+
+Andres
+Crear diseno de prototipo
+Realizar pruebas de usabilidad
+Actualizar documentacion tecnica
+
+Juseb
+Implementar funcionalidad de login
+Revisar codigo fuente
+Optimizar base de datos
+
+Julian
+Planificar campana publicitaria
+Contactar proveedores
+Coordinar reuniones de equipo
+
+Maria
+Desarrollar interfaz de usuario
+Configurar entorno de desarrollo
+Escribir manual de usuario
+
+Laura
+Realizar analisis de datos
+Desarrollar algoritmos de recomendacion
+Optimizar rendimiento del sistema
+
+Daniel
+Gestionar redes sociales
+Redactar comunicados de prensa
+Preparar presentaciones para clientes
+
+Ana
+Disenar esquema de base de datos
+Desarrollar modulos de backend
+Integrar APIs externas
+
+Carlos
+Realizar investigacion de competencia
+Actualizar sitio web
+Monitorear metricas de rendimiento
+
+Sofia
+Crear contenido para blog
+Desarrollar tutoriales en video
+Organizar eventos de capacitacion
+
